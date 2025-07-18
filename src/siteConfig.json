@@ -1,6 +1,6 @@
 {
   "name": "Yendo al ritmo",
-  "bio": "de Primer Año (Computación)",
+  "bio": "de Primer Año",
   "profilePicture": "/profile-picture.jpg",
   "url": "https://1.goalritmo.com",
   "blog": true,
@@ -23,6 +23,16 @@
     },
     {
       "id": "1728534585741",
+      "title": "🔗 Análisis Matemático II",
+      "url": "https://am2.goalritmo.com"
+    },
+    {
+      "id": "1728534585742",
+      "title": "🔗 Álgebra",
+      "url": "https://algebra.goalritmo.com"
+    },
+    {
+      "id": "1728534585743",
       "title": "📄 Apuntes de Intro a Algo",
       "url": "https://docs.google.com/document/d/18OGxQ-EQIarwKKR1GRuJlsCzmrCBGJ0BdPyJP1afewU/edit?usp=sharing"
     },

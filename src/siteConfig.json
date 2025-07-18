@@ -1,0 +1,30 @@
+{
+  "name": "Yendo al ritmo",
+  "bio": "de Primer Año (Computación)",
+  "profilePicture": "/profile-picture.jpg",
+  "url": "https://1.goalritmo.com",
+  "blog": true,
+  "iconLinks": [],
+  "customLinks": [
+    {
+      "id": "1728534585738",
+      "title": "🔗 Links de Análisis Matemático I",
+      "url": "https://am1.goalritmo.com"
+    },
+    {
+      "id": "1728534585739",
+      "title": "🔗 Links de Matemática Discreta I",
+      "url": "https://md1.goalritmo.com"
+    },
+    {
+      "id": "1728534585740",
+      "title": "🎥 Clases de Algoritmos I",
+      "url": "https://www.youtube.com/playlist?list=PLLswL1pDm9IySjKob9nqV9xzlQlfHf1T_"
+    },
+    {
+      "id": "1728534585741",
+      "title": "📄 Apuntes de Intro a Algoritmos",
+      "url": "https://docs.google.com/document/d/18OGxQ-EQIarwKKR1GRuJlsCzmrCBGJ0BdPyJP1afewU/edit?usp=sharing"
+    }
+  ]
+}
